@@ -10,9 +10,6 @@ __pycache__/
 
 data/
 *.zip
-*.png
-*.jpg
-*.jpeg
 
 output/
 *.ckpt
